@@ -2,7 +2,11 @@ heros:Personnage {
 	void frapper(Personnage personnage,int force){
 
 	}
-	Lieu Regarder(Direction direction,int distance){
+	public void Deplacer(Direction direction){
+
+	}
+	public Lieu Regarder(Direction direction,int distance){
 		
 	}
+	
 }
